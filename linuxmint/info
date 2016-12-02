@@ -1,0 +1,10 @@
+RELEASE=18
+CODENAME=sarah
+EDITION="KDE 64-bit"
+DESCRIPTION="Linux Mint 18 Sarah"
+DESKTOP=KDE
+TOOLKIT=QT
+NEW_FEATURES_URL=http://www.linuxmint.com/rel_sarah_kde_whatsnew.php
+RELEASE_NOTES_URL=http://www.linuxmint.com/rel_sarah_kde.php
+USER_GUIDE_URL=`yelp help:linuxmint`
+GRUB_TITLE=Linux Mint 18 KDE 64-bit

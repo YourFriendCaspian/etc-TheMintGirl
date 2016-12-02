@@ -1,0 +1,9 @@
+[RtCW-ET]
+title=Return To Castle Wolfenstein
+description=WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve Software, and id Software
+ports=27950,27952,27960,27965/udp
+categories=Games;Action;
+reference=[http://www.evenbalance.com/index.php?page=faq-rtcw.php PunkBuster Online Countermeasures: Frequently Asked Questions about PunkBuster for Return to Castle Wolfenstein]
+reference=[https://activision.custhelp.com/cgi-bin/activision.cfg/php/enduser/std_adp.php?p_faqid=7803 Activision: How do I set up the game for multiple users behind a NAT firewall]
+reference=[https://activision.custhelp.com/cgi-bin/activision.cfg/php/enduser/std_adp.php?p_faqid=7757 Activision: Are there any problems with using a firewall?]
+

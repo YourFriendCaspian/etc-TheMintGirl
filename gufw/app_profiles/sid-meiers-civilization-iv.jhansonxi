@@ -1,0 +1,8 @@
+[Civilization IV]
+title=Sid Meier's Civilization IV
+description=A turn-based strategy game from Firaxis Games
+ports=2033,2056/udp|2033/tcp
+categories=Games;Strategy;
+reference=[http://www.2kgames.com/civ4/patch-detail.htm v1.61 Patch changes]
+reference=[http://support.2kgames.com/help/take2_games/q05 2K Games - Help - Which ports are required to play Civilization 4 online?]
+

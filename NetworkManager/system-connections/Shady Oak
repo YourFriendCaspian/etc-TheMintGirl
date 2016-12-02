@@ -1,0 +1,21 @@
+[connection]
+id=Shady Oak
+uuid=8b2d80cb-e305-3405-b9ee-7704f3fd3321
+type=ethernet
+permissions=
+secondaries=
+
+[ethernet]
+mac-address=54:A0:50:89:E8:2B
+mac-address-blacklist=
+
+[ipv4]
+address1=10.0.0.42/24,10.0.0.1
+dns=75.75.75.76;75.75.75.75;
+dns-search=
+method=manual
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

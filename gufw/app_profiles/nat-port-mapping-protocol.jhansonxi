@@ -1,0 +1,9 @@
+[NAT-PMP]
+title=NAT
+description=Port Mapping Protocol
+ports=5351/udp
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers Wikipedia: List of TCP and UDP port numbers]
+reference=[http://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol Wikipedia: NAT Port Mapping Protocol]
+reference=[http://miniupnp.free.fr/nat-pmp.html MiniUPnP Project: NAT Port Mapping Protocol (NAT-PMP)]
+

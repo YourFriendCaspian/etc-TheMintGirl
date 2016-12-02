@@ -1,0 +1,16 @@
+[UT2004]
+title=Unreal Tournament 2004
+description=A FPS by Epic Games
+ports=7777,7778,7787,7788/udp
+categories=Games;Action;
+reference=[http://home.comcast.net/~steve.denver/ports.htm Steve's Website - UT2004 Server Information]
+reference=[http://forums.epicgames.com/archive/index.php/t-387602.html Epic Games Forums - Getting a dedicated server behind router to work]
+reference=[http://www.unrealadmin.org/forums/showthread.php?t=4877 The Unreal Admins Page: GameSpy and Unreal Tournament MasterList Ports]
+
+[UT2004 web admin]
+title=Unreal Tournament 2004 Admin
+description=Web-based administration for the FPS by Epic Games
+ports=80/tcp
+categories=Games;Action;
+reference=[http://utforums.epicgames.com/showthread.php?t=603695 Epic Games Forums - creating a web admin server]
+

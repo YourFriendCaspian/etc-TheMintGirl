@@ -1,0 +1,8 @@
+[Dopewars]
+title=Dopewars
+description=A FPS by id Software
+ports=7902/tcp
+categories=Games;Strategy;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+reference=[http://dopewars.sourceforge.net/docs/configfile.html SourceForge.net: dopewars configuration files]
+

@@ -1,0 +1,14 @@
+#!/bin/bash
+mkdir -p /usr/lib/firefox-addons/searchplugins
+rm -rf /usr/lib/firefox-addons/searchplugins/*
+#cp -R /usr/share/linuxmint/common/artwork/firefox/searchplugins/* /usr/lib/firefox-addons/searchplugins/
+
+mkdir -p /usr/lib/firefox/distribution/searchplugins/locale
+rm -rf /usr/lib/firefox/distribution/searchplugins/locale/*
+#cp -R /usr/share/linuxmint/common/artwork/firefox/searchplugins/* /usr/lib/firefox/distribution/searchplugins/locale/
+
+if [ -d "/usr/lib/firefox/browser/distribution/searchplugins/locale" ]; then
+    rm -rf /usr/lib/firefox/browser/distribution/searchplugins/locale/*
+    #cp -R /usr/share/linuxmint/common/artwork/firefox/searchplugins/* /usr/lib/firefox/browser/distribution/searchplugins/locale/
+fi
+

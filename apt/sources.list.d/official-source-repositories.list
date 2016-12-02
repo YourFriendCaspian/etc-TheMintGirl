@@ -1,0 +1,8 @@
+deb-src http://mirror.clarkson.edu/linuxmint/packages sarah main upstream import backport 
+
+deb-src http://mirror.jmu.edu/pub/ubuntu xenial main restricted universe multiverse
+deb-src http://mirror.jmu.edu/pub/ubuntu xenial-updates main restricted universe multiverse
+deb-src http://mirror.jmu.edu/pub/ubuntu xenial-backports main restricted universe multiverse
+
+deb-src http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
+deb-src http://archive.canonical.com/ubuntu/ xenial partner

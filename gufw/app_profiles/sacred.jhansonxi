@@ -1,0 +1,48 @@
+[Sacred 0]
+title=Sacred - port 2005
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+
+[Sacred 1]
+title=Sacred - ports 2005:2006
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2006/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+
+[Sacred 2]
+title=Sacred - ports 2005:2007
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2007/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+
+[Sacred 3]
+title=Sacred - ports 2005:2008
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2008/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+
+[Sacred 4]
+title=Sacred - ports 2005:2009
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2009/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+
+[Sacred 5]
+title=Sacred - ports 2005:2010
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2010/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+reference=[http://forum.sacred2.com/showthread.php?t=46094 Updated port forwarding FAQ]
+

@@ -1,0 +1,14 @@
+categories /usr/share/applications/org.kde.knetattach.desktop Qt;KDE;Utility;X-KDE-Utilities-Desktop;
+categories /usr/share/applications/org.kde.kmail.desktop Qt;KDE;Network; 
+categories /usr/share/applications/kde4/okular.desktop Qt;KDE;Utility;X-KDE-Utilities-Desktop;
+hide /usr/share/applications/org.kde.ktpcontactlist.desktop
+hide /usr/share/applications/org.kde.ktpcontactlist.desktop
+hide /usr/share/applications/org.kde.ksshaskpass.desktop
+hide /usr/share/applications/kde4/knetattach.desktop
+hide /usr/share/applications/org.kde.kaddressbook.desktop
+hide /usr/share/applications/org.kde.korganizer.desktop
+hide /usr/share/applications/org.kde.sieveeditor.desktop
+hide /usr/share/applications/org.kde.ktnef.desktop
+hide /usr/share/applications/org.kde.ktplogviewer.desktop
+hide /usr/share/applications/org.kde.pimsettingexporter.desktop
+

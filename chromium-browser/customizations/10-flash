@@ -1,0 +1,7 @@
+flashso="/usr/lib/adobe-flashplugin/libpepflashplayer.so"
+if test -f "$flashso"; then
+	CHROMIUM_FLAGS="$CHROMIUM_FLAGS --ppapi-flash-path=$flashso --ppapi-flash-version="
+	echo "Using PPAPI flash."
+else
+	echo "PPAPI flash has config file in /etc, but library does not exist and won't be used. Package is uninstalled, not purged."
+fi

@@ -1,0 +1,9 @@
+[Descent 3]
+title=Descent 3
+description=3D Flying FPS by Outrage Entertainment
+ports=2092,3445/udp|7170/tcp
+categories=Games;Action;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+reference=[http://www.interplay.com/games/support.php?id=101 Interplay: Descent 3 Technical Support]
+reference=[http://www.fozed.com/CP44/ToD/D3/Servers/Multi%20Server/readme.txt D3Server3 readme]
+

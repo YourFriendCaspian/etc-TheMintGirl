@@ -1,0 +1,28 @@
+exec /usr/share/fglrx/amdccclesu.desktop gksu /usr/bin/amdcccle
+hide /usr/share/applications/itweb-settings.desktop
+hide /usr/share/applications/openjdk-8-policytool.desktop
+hide /usr/share/applications/yelp.desktop
+hide /usr/share/applications/display-im6.desktop
+hide /usr/share/applications/display-im6.q16.desktop
+categories /usr/share/applications/libreoffice-draw.desktop Office;
+categories /usr/share/applications/libreoffice-math.desktop Office;Spreadsheet;
+categories /usr/share/applications/evince.desktop GNOME;GTK;Utility;Viewer;
+categories /usr/share/applications/atril.desktop GNOME;GTK;Utility;Viewer;
+categories /usr/share/applications/mate-dictionary.desktop GNOME;GTK;Utility;Viewer;
+categories /usr/share/applications/mate-color-select.desktop GNOME;GTK;Utility;Viewer;
+categories /usr/share/applications/orca.desktop GNOME;GTK;Utility;
+rename /usr/share/applications/atril.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/atril.desktop
+rename /usr/share/applications/caja-browser.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/caja-browser.desktop
+rename /usr/share/applications/engrampa.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/engrampa.desktop
+rename /usr/share/applications/eom.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/eom.desktop
+rename /usr/share/applications/mate-terminal.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-terminal.desktop
+rename /usr/share/applications/pluma.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/pluma.desktop
+rename /usr/share/applications/mate-dictionary.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-dictionary.desktop
+rename /usr/share/applications/mate-disk-usage-analyzer.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-disk-usage-analyzer.desktop
+rename /usr/share/applications/mate-system-monitor.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-system-monitor.desktop
+rename /usr/share/applications/mate-search-tool.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-search-tool.desktop
+rename /usr/share/applications/mate-color-select.desktop /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-color-select.desktop
+onlyshowin /etc/xdg/autostart/user-dirs-update-gtk.desktop GNOME;LXDE;Unity;MATE;XFCE;
+onlyshowin /etc/xdg/autostart/vino-server.desktop GNOME;LXDE;Unity;MATE;XFCE;
+onlyshowin /usr/share/applications/vino-preferences.desktop GNOME;LXDE;Unity;MATE;XFCE;
+categories /usr/share/applications/vino-preferences.desktop Settings;

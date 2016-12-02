@@ -1,0 +1,7 @@
+[Warsow]
+title=Warsow
+description=A competitive FPS based on the Qfusion 3D/id tech 2 engine
+ports=27950,44400/udp|27950/tcp
+categories=Games;Action;
+reference=[hhttp://www.warsow.net/wiki/index.php?title=FAQ#I_made_a_dedicated_server_but_I_can.E2.80.99t_find_it_in_the_server_browser. Warsow FAQ: I made a dedicated server but I can’t find it in the server browser]
+

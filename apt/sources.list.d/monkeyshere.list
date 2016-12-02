@@ -1,0 +1,2 @@
+deb http://archive.monkeysphere.info/debian experimental monkeysphere
+deb-src http://archive.monkeysphere.info/debian experimental monkeysphere

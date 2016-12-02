@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#if [ -f "/etc/init/plymouth-stop.conf" ]; then   
+#    sed -i -e '/starting mdm/d'  \
+#        -e 's@mdm|@@g'  \
+#        -e 's@or starting kdm@or starting kdm\n          or starting mdm@' \
+#        -e 's@gdm|lightdm@gdm|lightdm|mdm@' \
+#        /etc/init/plymouth-stop.conf
+#fi
+#
+#if [ -f "/etc/init/hybrid-gfx.conf" ]; then
+#   sed -i -e '/starting mdm/d'  \
+#        -e 's@or starting kdm@or starting kdm\n          or starting mdm@' \
+#        /etc/init/hybrid-gfx.conf
+#fi
+#
+#if [ -f "/etc/init/plymouth-shutdown.conf" ]; then  
+#    if [ -f /etc/X11/default-display-manager ]; then
+#        if [ "$(cat /etc/X11/default-display-manager 2>/dev/null)" = "/usr/sbin/mdm" ]; then
+#            sed -i -e 's@lightdm@mdm@g' /etc/init/plymouth-shutdown.conf
+#        else
+#            sed -i -e 's@mdm@lightdm@g' /etc/init/plymouth-shutdown.conf
+#        fi
+#    fi
+#fi
+

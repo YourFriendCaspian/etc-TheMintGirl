@@ -1,0 +1,2 @@
+# Added a path to put Mint KDE Settings
+XDG_CONFIG_DIRS="$XDG_CONFIG_DIRS:/usr/share/mint-artwork-kde/kf5-settings:/usr/share/mint-artwork-kde/kde4-profile/default/config"
