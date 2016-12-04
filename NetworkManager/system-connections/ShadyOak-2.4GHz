@@ -21,7 +21,6 @@ proto=
 psk-flags=1
 
 [ipv4]
-dns=75.75.75.76;75.75.75.75;
 dns-search=
 method=auto
 
