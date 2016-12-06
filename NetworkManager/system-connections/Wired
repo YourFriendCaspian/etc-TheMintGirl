@@ -1,5 +1,5 @@
 [connection]
-id=AHC Kennel - Wired
+id=Wired
 uuid=c487e26d-8283-4ef0-9873-851f5e6627f0
 type=ethernet
 permissions=user:yfc:;

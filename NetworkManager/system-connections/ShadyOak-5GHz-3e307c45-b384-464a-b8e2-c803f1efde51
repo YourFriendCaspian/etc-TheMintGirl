@@ -1,6 +1,6 @@
 [connection]
 id=ShadyOak-5GHz
-uuid=4b19db39-d528-40b1-b754-088d34ab8b0e
+uuid=3e307c45-b384-464a-b8e2-c803f1efde51
 type=wifi
 permissions=user:yfc:;
 secondaries=
@@ -14,6 +14,7 @@ seen-bssids=
 ssid=ShadyOak-5GHz
 
 [wifi-security]
+auth-alg=open
 group=
 key-mgmt=wpa-psk
 pairwise=
@@ -21,7 +22,6 @@ proto=
 psk-flags=1
 
 [ipv4]
-dns=75.75.75.76;75.75.75.75;
 dns-search=
 method=auto
 

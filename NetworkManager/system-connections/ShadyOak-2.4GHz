@@ -1,6 +1,6 @@
 [connection]
 id=ShadyOak-2.4GHz
-uuid=3b725c2d-dfaf-4d26-9b0e-fa03b4e37cae
+uuid=4cd806b2-dc7a-451e-af0b-5a9c094e181f
 type=wifi
 permissions=user:yfc:;
 secondaries=
@@ -14,6 +14,7 @@ seen-bssids=
 ssid=ShadyOak-2.4GHz
 
 [wifi-security]
+auth-alg=open
 group=
 key-mgmt=wpa-psk
 pairwise=
