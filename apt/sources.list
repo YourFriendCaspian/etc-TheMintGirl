@@ -1,1 +1,3 @@
 #deb cdrom:[Linux Mint 18 _Sarah_ - Release amd64 20160904]/ xenial contrib main non-free
+## Depôt MultiSystem
+deb http://liveusb.info/multisystem/depot all main
