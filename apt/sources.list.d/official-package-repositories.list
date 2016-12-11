@@ -1,8 +1,8 @@
-deb http://mirror.jmu.edu/pub/linuxmint/packages sarah main upstream import backport 
+deb http://mirrors.advancedhosters.com/linuxmint/packages sarah main upstream import backport 
 
-deb http://mirror.lcsee.wvu.edu/ubuntu xenial main restricted universe multiverse
-deb http://mirror.lcsee.wvu.edu/ubuntu xenial-updates main restricted universe multiverse
-deb http://mirror.lcsee.wvu.edu/ubuntu xenial-backports main restricted universe multiverse
+deb http://dist1.800hosting.com/ubuntu xenial main restricted universe multiverse
+deb http://dist1.800hosting.com/ubuntu xenial-updates main restricted universe multiverse
+deb http://dist1.800hosting.com/ubuntu xenial-backports main restricted universe multiverse
 
 deb http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
 deb http://archive.canonical.com/ubuntu/ xenial partner
