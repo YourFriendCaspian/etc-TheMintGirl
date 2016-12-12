@@ -1,4 +1,4 @@
-root:*::
+root:*::yfc
 daemon:*::
 bin:*::
 sys:*::
@@ -69,3 +69,4 @@ yfc:!::
 sambashare:!::yfc
 monkeysphere:!::
 stunnel4:!::
+kvm:!::

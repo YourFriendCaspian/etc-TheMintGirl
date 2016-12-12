@@ -18,3 +18,5 @@ UUID=c3fefa90-57b2-4eb9-8afc-83d2cf255985 none            swap    sw            
 UUID=7074BB4474BB0C3A   /home/yfc/MediaDrive    ntfs    defaults    0   0
 
 UUID=A44ABB0A4ABAD86E   /home/yfc/Windows10    ntfs    defaults    0   0
+
+UUID=88F1-623F	/media/yfc/MULTI-LINUX	fat32	defaults	0	0
