@@ -19,4 +19,5 @@ UUID=7074BB4474BB0C3A   /home/yfc/MediaDrive    ntfs    defaults    0   0
 
 UUID=A44ABB0A4ABAD86E   /home/yfc/Windows10    ntfs    defaults    0   0
 
-UUID=8D55-9E3A	/media	exfat	defaults	0	0
+#UUID=8D55-9E3A	
+PARTLABEL=MultiLinux	/media	vfat	defaults	0	0
