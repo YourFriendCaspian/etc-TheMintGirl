@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="desktop">
+		<dir name="gnome">
+			<dir name="url-handlers">
+				<dir name="vms">
+					<entry name="needs_terminal" mtime="1481774619" type="bool" value="false"/>
+					<entry name="enabled" mtime="1481774619" type="bool" value="true"/>
+					<entry name="command" mtime="1481774619" type="string">
+						<stringvalue>&apos;/usr/bin/vmplayer&apos; &quot;%s&quot;</stringvalue>
+					</entry>
+				</dir>
+				<dir name="vm">
+					<entry name="needs_terminal" mtime="1481774619" type="bool" value="false"/>
+					<entry name="enabled" mtime="1481774619" type="bool" value="true"/>
+					<entry name="command" mtime="1481774619" type="string">
+						<stringvalue>&apos;/usr/bin/vmplayer&apos; &quot;%s&quot;</stringvalue>
+					</entry>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>

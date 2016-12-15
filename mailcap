@@ -500,6 +500,10 @@ text/x-tex; vim %s; needsterminal
 application/x-shellscript; vim %s; needsterminal
 text/x-c; vim %s; needsterminal
 text/x-c++; vim %s; needsterminal
+application/x-virtualbox-vbox; VirtualBox %s; test=test -n "$DISPLAY"
+application/x-virtualbox-vbox-extpack; VirtualBox %s; test=test -n "$DISPLAY"
+application/x-virtualbox-ovf; VirtualBox %s; test=test -n "$DISPLAY"
+application/x-virtualbox-ova; VirtualBox %s; test=test -n "$DISPLAY"
 x-scheme-handler/ghelp; yelp %s; test=test -n "$DISPLAY"
 x-scheme-handler/help; yelp %s; test=test -n "$DISPLAY"
 x-scheme-handler/info; yelp %s; test=test -n "$DISPLAY"
