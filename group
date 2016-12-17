@@ -70,3 +70,4 @@ monkeysphere:x:130:yfc
 stunnel4:x:131:
 kvm:x:132:yfc
 vboxusers:x:133:
+vde2-net:x:127:

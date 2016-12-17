@@ -42,3 +42,4 @@ yfc:$6$7Rm6wSsN$IfC1v8rOtcDO2dCTG1TiWohc7.hLaIH5s/tQsykiH9kDSnUJMytIxsVsltUIXzcs
 sshd:*:17136:0:99999:7:::
 monkeysphere:*:17136:0:99999:7:::
 stunnel4:!:17136:0:99999:7:::
+vde2-net:*:17152:0:99999:7:::
