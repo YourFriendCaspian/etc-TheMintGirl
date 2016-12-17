@@ -2,7 +2,7 @@
 Type=Service
 Exec=baloo_file
 X-KDE-StartupNotify=false
-X-KDE-autostart-condition=baloofilerc:Basic Settings:Enabled:true
+X-KDE-autostart-condition=baloofilerc:Basic Settings:Indexing-Enabled:true
 X-KDE-autostart-phase=0
 X-GNOME-Autostart-enabled=true
 OnlyShowIn=KDE;GNOME;Unity;XFCE
@@ -20,6 +20,7 @@ Name[de]=Baloo-Dateidienst
 Name[el]=Δαίμονας αρχείων Baloo
 Name[en_GB]=Baloo File Daemon
 Name[es]=Demonio de archivos de Baloo
+Name[et]=Baloo failideemon
 Name[fi]=Baloo-tiedostopalvelu
 Name[fr]=Démon de fichier Baloo
 Name[gd]=Deamhan fhaidhlichean Baloo

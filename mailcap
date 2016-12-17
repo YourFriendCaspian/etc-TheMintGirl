@@ -412,6 +412,10 @@ application/x-bzip-compressed-tar; ark %s; test=test -n "$DISPLAY"
 application/x-tarz; ark %s; test=test -n "$DISPLAY"
 application/x-xz-compressed-tar; ark %s; test=test -n "$DISPLAY"
 application/x-lzma-compressed-tar; ark %s; test=test -n "$DISPLAY"
+application/x-lzip; ark %s; test=test -n "$DISPLAY"
+application/x-tzo; ark %s; test=test -n "$DISPLAY"
+application/x-lrzip-compressed-tar; ark %s; test=test -n "$DISPLAY"
+application/vnd.debian.binary-package; ark %s; test=test -n "$DISPLAY"
 application/x-deb; ark %s; test=test -n "$DISPLAY"
 application/x-cd-image; ark %s; test=test -n "$DISPLAY"
 application/x-bcpio; ark %s; test=test -n "$DISPLAY"
@@ -422,17 +426,17 @@ application/x-sv4crc; ark %s; test=test -n "$DISPLAY"
 application/x-rpm; ark %s; test=test -n "$DISPLAY"
 application/x-source-rpm; ark %s; test=test -n "$DISPLAY"
 application/vnd.ms-cab-compressed; ark %s; test=test -n "$DISPLAY"
+application/vnd.rar; ark %s; test=test -n "$DISPLAY"
 application/x-rar; ark %s; test=test -n "$DISPLAY"
 application/x-7z-compressed; ark %s; test=test -n "$DISPLAY"
 application/zip; ark %s; test=test -n "$DISPLAY"
 application/x-java-archive; ark %s; test=test -n "$DISPLAY"
 application/x-compress; ark %s; test=test -n "$DISPLAY"
-application/x-gzip; ark %s; test=test -n "$DISPLAY"
+application/gzip; ark %s; test=test -n "$DISPLAY"
 application/x-bzip; ark %s; test=test -n "$DISPLAY"
 application/x-bzip2; ark %s; test=test -n "$DISPLAY"
 application/x-lzma; ark %s; test=test -n "$DISPLAY"
 application/x-xz; ark %s; test=test -n "$DISPLAY"
-application/x-lha; ark %s; test=test -n "$DISPLAY"
 inode/directory; dolphin %s; test=test -n "$DISPLAY"
 video/ogg; dragon %s; test=test -n "$DISPLAY"
 video/x-theora+ogg; dragon %s; test=test -n "$DISPLAY"
@@ -625,4 +629,8 @@ application/x-gtar; /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-
 application/x-ustar; /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput
 text/*; more %s; needsterminal
 text/*; view %s; edit=vi %s; compose=vi %s; needsterminal
+application/msword; wordview %s; description="MS Word Text"; test=test "$DISPLAY"
+application/msword; catdoc %s; copiousoutput; description="MS Word Text";
+application/vnd.ms-excel; xls2csv %s; copiousoutput; description="MS Excel sheet";
+application/vnd.ms-powerpoint; catppt %s; copiousoutput; description="MS PowerPoint presentation";
 application/vnd.debian.binary-package; /usr/lib/mime/debian-view %s; needsterminal; description=Debian GNU/Linux Package; nametemplate=%s.deb
