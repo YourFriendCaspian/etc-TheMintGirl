@@ -63,7 +63,6 @@ pulse-access:x:123:
 nm-openvpn:x:124:
 rtkit:x:125:yfc
 saned:x:126:
-vboxsf:x:127:
 sddm:x:128:yfc
 yfc:x:1000:
 sambashare:x:129:yfc
